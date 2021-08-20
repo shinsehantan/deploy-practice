@@ -23,6 +23,9 @@ export default function App() {
       <Button themeColor="secondary" isHover isActive>
         b
       </Button>
+      <Button themeColor="secondary" isHover isActive>
+        c
+      </Button>
     </>
   );
 }
